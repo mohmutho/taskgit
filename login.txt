@@ -1,3 +1,7 @@
 public function login (){
 	- Login Menggunakan Facebook
+	- Login Menggunakan Google
+	- Login Menggunakan OTP
+	- Login Manual dengan Username dan Password
+	- Login Menggunakan Linkediin
 }
