@@ -1,3 +1,4 @@
 public function login (){
-	- Login Manual
+	- Login Manual dengan Username dan Password
+	- Login Menggunakan Linkediin
 }
