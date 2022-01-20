@@ -1,4 +1,5 @@
 public function register(){
+	- Register Menggunakan Facebook
 	- Register Menggunakan Google
 	- Register Menggunakan OTP
 	- Register dengan username dan password
